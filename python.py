@@ -1,1 +1,1 @@
-printff("hello sir")
+print("hello sir")
